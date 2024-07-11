@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(139, 204, 244, 0.918);
+}
+table{
+    height: 100px;
+    width: 250px;
+    background-color: rgb(138, 136, 136);
+    border-radius: 40px;
+    padding: 40px;
+}
+input{
+    width: 300;
+    text-align: center;
+    height: 60px;
+    width: 250px;
+    font-size: 30px;
+}
+button{
+    width: 60px;
+    height: 60px;
+    font-size: 25px;
+}
